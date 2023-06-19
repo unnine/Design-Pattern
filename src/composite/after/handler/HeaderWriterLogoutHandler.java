@@ -1,9 +1,9 @@
-package composit.before.handler;
+package composite.after.handler;
 
 public class HeaderWriterLogoutHandler implements LogoutHandler {
 
     @Override
     public void logout() {
-        System.out.println("Set header.");
+        System.out.println("Clear Header.");
     }
 }

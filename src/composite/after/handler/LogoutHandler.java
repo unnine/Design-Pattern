@@ -1,4 +1,4 @@
-package composit.before.handler;
+package composite.after.handler;
 
 public interface LogoutHandler {
 
